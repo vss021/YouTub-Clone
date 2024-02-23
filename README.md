@@ -1,6 +1,5 @@
 # App DEMO
 
-Click [here](https://drive.google.com/file/d/1RFIJOx-kv5ZxTtseFofZIZLAIPn-7Tqa/view?usp=drive_link) to see app demo
 
 ## Key Features:
 
